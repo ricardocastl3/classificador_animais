@@ -1,0 +1,17 @@
+pelo_longo,perna_longa,orelha_pequena,faz_miau,animal
+0,1,1,0,cachorro
+1,1,1,0,cachorro
+0,0,0,1,gato
+1,0,1,1,gato
+0,0,0,0,cachorro
+0,0,1,1,gato
+1,0,0,1,gato
+1,1,0,0,cachorro
+1,0,0,0,gato
+0,1,0,0,cachorro
+0,1,0,1,gato
+1,1,1,1,gato
+0,0,1,0,cachorro
+0,1,1,1,gato
+1,1,0,1,gato
+0,0,1,0,cachorro
